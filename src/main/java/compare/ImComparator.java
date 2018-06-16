@@ -1,6 +1,5 @@
 package compare;
 
-import com.sun.tools.internal.jxc.ap.Const;
 import constant.Constants;
 import util.ReflexUtil;
 
